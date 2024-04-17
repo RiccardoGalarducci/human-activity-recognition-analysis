@@ -4,6 +4,26 @@
 <br>
 
 # Human Activity Recognition Analysis
+This repository contains the Data Mining - Advanced course of my Master's degree in Data Science & Business Informatics at University of Pisa.
+The aim of the project is to conduct a comprehensive analysis and comparison of different machine learning methods and techinques on 
+**Human Activity Recognition using Smartphones** dataset.
 
 
+## Description
+
+The tasks afforded are:
+
+- Classification with basic techniques
+- Outlier detection
+- Dimensionality reduction
+- Regression
+- Time series analysis
+- Time series classification
+- Advanced clustering
+- Advanced classification
+- Sequential Pattern Mining
+
+## Repository Overview
+
+In this repository, in the root level, you can find the pdf version of the project and the code folder which contains the jupyter notebooks diveded for solving the different tasks.
 
