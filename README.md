@@ -27,3 +27,8 @@ The tasks afforded in the project are:
 
 In this repository, in the root level, you can find the pdf report of the project and the **\code** folder which contains the jupyter notebooks diveded for tasks afforded.
 
+
+## Collaborators
+
+* **[Cosimo Faeti](https://github.com/CosimoFaeti)**
+
